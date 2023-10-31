@@ -21,6 +21,11 @@ canvas {
   background-color: #111;
 }
 
+h1 {
+  color: #fff;
+  font-size: 3rem;
+}
+
 .score {
   display: flex;
   flex-direction: column;
